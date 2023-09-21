@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/jesús-silva-6921b6211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús-silva-6921b6211" height="30" width="40" /></a>
 <a href="https://fb.com/jesus.miguel.376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jesus.miguel.376" height="30" width="40" /></a>
 <a href="https://instagram.com/jesumiguel1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesumiguel1904" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCh-ya7OcMunFg2KUr_gjNPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCh-ya7OcMunFg2KUr_gjNPw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCh-ya7OcMunFg2KUr_gjNPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCh-ya7OcMunFg2KUr_gjNPw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
