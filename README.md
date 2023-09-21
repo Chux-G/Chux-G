@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chsilvar49@gmail.com - jesushumboldt73@gmail.com**
 
-- ⚡ Fun fact **I like coffee,body workout,research and learn laguages.**
+- ⚡ Fun fact **I like coffee,body workout,research and learn languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
