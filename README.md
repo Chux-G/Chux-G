@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*28dHSOYkqWmxXYRt)
 
 <h1 align="center">Hi 👋, I'm Jesús Silva</h1>
-<h3 align="center">I'm a passionate Back - End Software Developer and Computer Engineering Student in Final Year.</h3>
+<h3 align="center">I'm a passionate Backend Software Developer and Computer Engineer.</h3>
 
 <p align="left"> <img src="https://gist.githubusercontent.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" /> </p>
 
